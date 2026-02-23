@@ -1,4 +1,1 @@
-- 👋 Owner of CherryBerry Studios.
-- 🧠 Currently understand most common and rare frameworks.
-- 🌱 Currently learning JavaScript, TypeScript and Python.
-- 📫 If you have any inquiries, questions or suggestions, etc. Then you may contact CherryBerry  Studios through email at support@cherryberrystudios.com
+
